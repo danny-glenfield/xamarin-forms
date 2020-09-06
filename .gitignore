@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/XamarinForms.FirstApp/XamarinForms.FirstApp/XamarinForms.FirstApp/bin/Debug/netstandard2.0
+/XamarinForms.FirstApp/XamarinForms.FirstApp/XamarinForms.FirstApp/obj
+/XamarinForms.FirstApp/XamarinForms.FirstApp/XamarinForms.FirstApp.Android/bin/Debug
+/XamarinForms.FirstApp/XamarinForms.FirstApp/XamarinForms.FirstApp.Android/obj
+/XamarinForms.FirstApp/XamarinForms.FirstApp/XamarinForms.FirstApp.iOS/bin/iPhone/Debug
+/XamarinForms.FirstApp/XamarinForms.FirstApp/XamarinForms.FirstApp.iOS/obj
